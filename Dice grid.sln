@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice grid", "Dice grid\Dice grid.csproj", "{8DA1776B-1EBA-4C11-9AA3-DAACB54C8770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA1776B-1EBA-4C11-9AA3-DAACB54C8770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA1776B-1EBA-4C11-9AA3-DAACB54C8770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA1776B-1EBA-4C11-9AA3-DAACB54C8770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA1776B-1EBA-4C11-9AA3-DAACB54C8770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43108AEB-E74C-4C7F-87BE-517AE7ECD587}
+	EndGlobalSection
+EndGlobal
